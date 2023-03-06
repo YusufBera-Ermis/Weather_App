@@ -17,7 +17,7 @@ body{
 .container{
     position: relative;
     width: 400px;
-    height: 105px;
+    height: 605px;
     background: #fff;
     overflow: hidden;
     border-radius: 18px;
@@ -63,5 +63,15 @@ body{
 .search-box button:hover{
     color: #fff;
     background: #06283d;
+}
+
+.search-box i{
+    position: absolute;
+    color: #06283d;
+    font-size: 28px;
+}
+
+.weather-box{
+    text-align: center;
 }
  
